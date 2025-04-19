@@ -29,5 +29,3 @@ const updateLights = () => {
 };
 
 setInterval(updateLights, 300);
-
-
